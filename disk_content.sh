@@ -7,7 +7,7 @@ DATE_FORMAT="eu"
 # Path of tree_colorized.sh
 TREE_PATH="/boot/scripts/"
 
-################################################################################
+###################################################################################################
 
 # Set DATE_FORMAT to either EU or US format
 # DATE will store the current date in the desired format
